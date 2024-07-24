@@ -1,0 +1,17 @@
+# Exclude the dist directory
+dist/
+
+# Exclude IDE-specific folders
+.idea/
+
+# Exclude test and config files
+*.log
+*.tsbuildinfo
+*.test.ts
+*.config.js
+
+# Exclude node_modules directory
+node_modules/
+
+# Exclude source files
+src/
